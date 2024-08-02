@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá! Eu sou o Yuri Carvalho!
 
-<!--
-**YuOliveira-dev/YuOliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Hoje trabalho como Designer e estou migrando de carreira!
+- 🌱 Faço Análise e Desenvolvimento De Sistemas e estou estudando Front-End em React!
+<br>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YuOliveira-dev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuOliveira-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div style = "display: inline_block"><br>
+<img align = "center" alt ="Yu-React" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align = "center" alt ="Yu-JavaScript" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align = "center" alt ="Yu-TypeScript" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align = "center" alt ="Yu-CSS3" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align = "center" alt ="Yu-HTML5" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+</div>
+          
+##
+
+<a href= "https://w.app/YuOliveira"><img src= "	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
