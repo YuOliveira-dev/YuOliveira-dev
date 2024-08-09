@@ -1,4 +1,4 @@
-## Olá! Eu sou o Yuri Carvalho!
+## Olá, Eu sou o Yuri Carvalho!
 
 
 
