@@ -3,8 +3,9 @@
 
 
 - 🔭 Hoje trabalho como Designer e estou migrando de carreira!
-- 🌱 Faço Análise e Desenvolvimento De Sistemas e estou estudando Front-End em React!
+- 🌱 Estou cursando Análise e Desenvolvimento De Sistemas e estudando Front-end em React com Angular!
 <br>
+-
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YuOliveira-dev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuOliveira-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
