@@ -19,6 +19,11 @@
 <img align = "center" alt ="Yu-TypeScript" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align = "center" alt ="Yu-CSS3" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align = "center" alt ="Yu-HTML5" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align = "center" alt ="Yu-PHP" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align = "center" alt ="Yu-NodeJS" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align = "center" alt ="Yu-NodeJS" height = "34px" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+
 
 </div>
           
