@@ -3,7 +3,9 @@
 
 
 - 🔭 Hoje trabalho como Designer e estou migrando de carreira!
-- 🌱 Estou cursando Análise e Desenvolvimento De Sistemas e estudando Front-end em React com Angular!
+- 🌱 Estou cursando Análise e Desenvolvimento De Sistemas e estudando Front-end em React TypeScript!
+- 🚨 Com cursos complementares como UX/UI Designer e um amplo dominio do pacote Adobe, sou capaz de desenhar e implementar interfaces dinâmicas e funcionais.
+- 🔸 Também possuo um breve conhecimento em Back-End utilizando as tecnologias: Node.Js, PHP e MySql para banco de dados, com uma imensa vontade de aprender e uma curiosidade sem limites, sou capaz de me adaptar e vencer qualquer desafio!
 <br>
 -
 
