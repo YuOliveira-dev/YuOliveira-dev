@@ -10,7 +10,7 @@ Desenvolvedor **Full Stack** com experiência no desenvolvimento e manutenção 
 
 * Também possuo conhecimentos em **React, TypeScript, Node.js, PHP, HTML e CSS**, além de experiência com **Git, Figma e ferramentas Adobe**.
 
-* Atualmente curso **Análise e Desenvolvimento de Sistemas** e busco evoluir continuamente em arquitetura, performance, qualidade de código e desenvolvimento de aplicações escaláveis.
+* Atualmente curso **Engenharia de Software** e busco evoluir continuamente em arquitetura, performance, qualidade de código e desenvolvimento de aplicações escaláveis.
 
 ---
 
